@@ -1,7 +1,7 @@
-# lasla
-sample LASLA minicorpus for Cylleneus
+# AGLDT
+sample AGLDT minicorpus for Cylleneus
 
-This pre-indexed LASLA mini-corpus is provided for convenience and testing of Cylleneus. To use, clone this repository into the language folder hierarchy ``Cylleneus/corpus/lat`` within your user data directory.
+This pre-indexed AGLDT mini-corpus is provided for convenience and testing of Cylleneus. To use, clone this repository into the language folder hierarchy ``Cylleneus/corpus/lat`` within your user data directory.
 
 On MacOS, this should be ``~/Library/Application Support/Cylleneus/corpus/lat``
 
